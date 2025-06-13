@@ -19,7 +19,7 @@ export async function POST(request: Request) {
       },
       body: JSON.stringify({
         flow_type: 'simple_full_restrict',
-        phone: "+905436461255",
+        phone: "+905548443072",
         wallet_address: '0x2963F85d81C116DDbB853fA7032D4bdD429ea078',
         currency: 'USD',
         commodity: 'TT',
